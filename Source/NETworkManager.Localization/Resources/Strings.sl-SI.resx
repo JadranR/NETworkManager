@@ -2069,7 +2069,7 @@ URL: https://api.ipify.org/</value>
     <value>Dobili ste "{0}" kot javni naslov IP od "{1}"!</value>
   </data>
   <data name="ResolvedXXXAsHostnameForIPAddressXXXMessage" xml:space="preserve">
-    <value>razrešeno je "{0}" kot ime gostitelja za naslov IP "{1}"!</value>
+    <value>Razrešeno je "{0}" kot ime gostitelja za naslov IP "{1}"!</value>
   </data>
   <data name="PublicIPAddressCheckIsDisabled" xml:space="preserve">
     <value>Preverjanje javnega naslova IP
@@ -2931,7 +2931,7 @@ $$hostname$$--&gt;Ime gostitelja</value>
     <value>Trenutno geslo</value>
   </data>
   <data name="NewPassword" xml:space="preserve">
-    <value>Novo gslo</value>
+    <value>Novo geslo</value>
   </data>
   <data name="ChangeMasterPassword" xml:space="preserve">
     <value>Spremeni glavno geslo...</value>
@@ -2952,7 +2952,7 @@ $$hostname$$--&gt;Ime gostitelja</value>
     <value>Ciljna mapa že vsebuje datoteke. Če kliknete 'Združi', se trenutni profili kopirajo v mapo. </value>
   </data>
   <data name="OverwriteProfilesInDestinationFolderMessage" xml:space="preserve">
-    <value>Prepišem profile v ciljni mapi? 
+    <value>Želite prepisati profile v ciljni mapi? 
 
 "Prepiši" bo datoteke profila kopiralo v ciljno mapo in prepisalo obstoječe datoteke profila. 
 "Združi" bo datoteke profila kopiralo v ciljno mapo, ne bo pa prepisalo datotek profila za izhod. 
@@ -2976,92 +2976,92 @@ Aplikacija se bo nato znova zagnala! </value>
     <value>Skrito omrežje</value>
   </data>
   <data name="DevelopedAndMaintainedByX" xml:space="preserve">
-    <value>Developed and maintained by {0} with the help of the</value>
+    <value>Razvil in vzdržuje {0} s pomočjo</value>
   </data>
   <data name="ExternalService_ipify_Description" xml:space="preserve">
-    <value>A Simple Public IP Address API</value>
+    <value>Preprost API za javni naslov IP</value>
   </data>
   <data name="Library_AirspaceFixer_Description" xml:space="preserve">
-    <value>AirspacePanel fixes all Airspace issues with WPF-hosted Winforms.</value>
+    <value>AirspacePanel odpravlja vse težave z Airspace z Winforms, ki jih gosti WPF.</value>
   </data>
   <data name="Library_ControlzEx_Description" xml:space="preserve">
-    <value>Shared Controlz for WPF and ... more</value>
+    <value>Deljeni Controlz za WPF in ... več</value>
   </data>
   <data name="Library_DnsClientNET_Description" xml:space="preserve">
-    <value>DnsClient.NET is a simple yet very powerful and high performant open source library for the .NET Framework to do DNS lookups</value>
+    <value>DnsClient.NET je preprosta, a zelo zmogljiva in visoko zmogljiva odprtokodna knjižnica za .NET Framework za iskanje DNS</value>
   </data>
   <data name="Library_Dragablz_Description" xml:space="preserve">
-    <value>Dragable and tearable tab control for WPF</value>
+    <value>Kontrolnik zavihkov za WPF, ki ga je mogoče povleči in trgati</value>
   </data>
   <data name="Library_IPNetwork_Description" xml:space="preserve">
-    <value>C# library take care of complex network, IP, IPv4, IPv6, netmask, CIDR, subnet, subnetting, supernet, and supernetting calculation for .NET developers.</value>
+    <value>Knjižnica C# skrbi za izračun kompleksnega omrežja, IP, IPv4, IPv6, omrežne maske, CIDR, podomrežja, podomrežja, superneta in supernettinga za razvijalce .NET.</value>
   </data>
   <data name="Library_LiveCharts_Description" xml:space="preserve">
-    <value>Simple, flexible, interactive &amp; powerful charts, maps and gauges for .Net</value>
+    <value>Enostavno, prilagodljivo, interaktivno &amp; zmogljive karte, zemljevidi in merilniki za .Net</value>
   </data>
   <data name="Library_LoadingIndicatorsWPF_Description" xml:space="preserve">
-    <value>A collection of loading indicators for WPF</value>
+    <value>Zbirka indikatorjev nalaganja za WPF</value>
   </data>
   <data name="Library_MahAppsMetroIconPacks_Description" xml:space="preserve">
-    <value>Some awesome icons for WPF and UWP all together...</value>
+    <value>Nekaj čudovitih ikon za WPF in UWP skupaj...</value>
   </data>
   <data name="Library_MahAppsMetro_Description" xml:space="preserve">
-    <value>A toolkit for creating Metro / Modern UI styled WPF apps.</value>
+    <value>Komplet orodij za ustvarjanje aplikacij WPF v slogu Metro/Modern UI.</value>
   </data>
   <data name="Library_NewtonsoftJson_Description" xml:space="preserve">
-    <value>Json.NET is a popular high-performance JSON framework for .NET</value>
+    <value>Json.NET je priljubljeno visokozmogljivo ogrodje JSON za .NET</value>
   </data>
   <data name="Library_Octokit_Description" xml:space="preserve">
-    <value>A GitHub API client library for .NET</value>
+    <value>Odjemalska knjižnica GitHub API za .NET</value>
   </data>
   <data name="Library_PSDicoveryProtocol_Description" xml:space="preserve">
-    <value>Capture and parse CDP and LLDP packets on local or remote computers</value>
+    <value>Zajemite in razčlenite pakete CDP in LLDP na lokalnih ali oddaljenih računalnikih</value>
   </data>
   <data name="Library_SharpSNMP_Description" xml:space="preserve">
-    <value>Sharp SNMP Library - Open Source SNMP for .NET and Mono</value>
+    <value>Knjižnica Sharp SNMP - odprtokodni SNMP za .NET in Mono</value>
   </data>
   <data name="Resource_Flag_Description" xml:space="preserve">
-    <value>A collection of all country flags in SVG</value>
+    <value>Zbirka vseh zastav držav v SVG</value>
   </data>
   <data name="Resource_ListTLD_Description" xml:space="preserve">
-    <value>List of Top-Level-Domains from iana.org, which is used to query whois servers of the TLD from whois.iana.org via port 43</value>
+    <value>Seznam domen najvišje ravni z iana.org, ki se uporablja za poizvedovanje strežnikov whois TLD s whois.iana.org prek vrat 43</value>
   </data>
   <data name="Resource_OUI_Description" xml:space="preserve">
-    <value>Sanitized IEEE OUI Data from linuxnet.ca.</value>
+    <value>Prečiščeni podatki IEEE OUI z linuxnet.ca.</value>
   </data>
   <data name="Resource_ServiceNamePortNumber_Description" xml:space="preserve">
-    <value>Service Name and Transport Protocol Port Number Registry from iana.org.</value>
+    <value>Ime storitve in register številk vrat transportnega protokola z iana.org.</value>
   </data>
   <data name="License_ApacheLicense2dot0" xml:space="preserve">
-    <value>Apache License 2.0</value>
+    <value>Licenca Apache 2.0</value>
   </data>
   <data name="License_BDS2Clause" xml:space="preserve">
-    <value>BSD-2-Clause</value>
+    <value>BSD-2-klavzula</value>
   </data>
   <data name="License_MITLicense" xml:space="preserve">
-    <value>MIT License</value>
+    <value>Licenca MIT</value>
   </data>
   <data name="License_Unlicense" xml:space="preserve">
-    <value>Unlicense</value>
+    <value>Preklic licence</value>
   </data>
   <data name="Library_CsWinRT_Description" xml:space="preserve">
-    <value>C#/WinRT provides packaged WinRT projection support for the C# language.</value>
+    <value>C#/WinRT zagotavlja paketno podporo za projekcijo WinRT za jezik C#.</value>
   </data>
   <data name="Library_PowerShellSDK_Description" xml:space="preserve">
-    <value>Runtime for hosting PowerShell</value>
+    <value>Izvajalni čas za gostovanje PowerShell</value>
   </data>
   <data name="Library_WebView2_Description" xml:space="preserve">
-    <value>The WebView2 control enables you to embed web technologies (HTML, CSS, and JavaScript) in your native applications powered by Microsoft Edge (Chromium).</value>
+    <value>Kontrolnik WebView2 vam omogoča vdelavo spletnih tehnologij (HTML, CSS in JavaScript) v vaše izvorne aplikacije, ki jih poganja Microsoft Edge (Chromium).</value>
   </data>
   <data name="Library_XamlBehaviorsWpf_Description" xml:space="preserve">
-    <value>Easily add interactivity to your apps using XAML Behaviors for WPF.</value>
+    <value>Preprosto dodajte interaktivnost svojim aplikacijam z uporabo XAML Behaviors za WPF.</value>
   </data>
   <data name="License_MicrosoftWebView2License" xml:space="preserve">
-    <value>Microsoft WebView2 License</value>
+    <value>Licenca Microsoft WebView2</value>
   </data>
   <data name="WarningMessage_ProfileFileNotEncryptedStoringPasswords" xml:space="preserve">
-    <value>The current profile file is not encrypted and passwords will stored unencrypted on disk! 
+    <value>Trenutna datoteka profila ni šifrirana in gesla bodo nešifrirana shranjena na disku!
 
-Enable profile file encryption in Settings&gt;Profile to store credentials securely.</value>
+Omogočite šifriranje datoteke profila v 'Nastavitve'&gt;Profil za varno shranjevanje poverilnic.</value>
   </data>
 </root>
