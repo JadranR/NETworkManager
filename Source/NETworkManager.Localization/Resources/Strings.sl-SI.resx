@@ -1165,7 +1165,7 @@ Ustvarite enega...</value>
     <value>Telnet</value>
   </data>
   <data name="TheApplicationCanBeStartedWithoutParameters" xml:space="preserve">
-    <value>Programa je mogoče zagnati brez parametrov!</value>
+    <value>Program je mogoče zagnati brez parametrov!</value>
   </data>
   <data name="TheFollowingHostnamesCouldNotBeResolved" xml:space="preserve">
     <value>Naslednjih imen gostiteljev ni bilo mogoče razrešiti:</value>
@@ -1336,7 +1336,7 @@ Ustvarite enega...</value>
     <value>Premakni in znova zaženi</value>
   </data>
   <data name="NetworkConnectionsDots" xml:space="preserve">
-    <value>Omrežne povezave....</value>
+    <value>Omrežne povezave...</value>
   </data>
   <data name="NotChanged" xml:space="preserve">
     <value>(ni spremenjeno)</value>
@@ -1654,7 +1654,7 @@ Ustvarite enega...</value>
     <value>Prejeto potrdilo je poteklo.</value>
   </data>
   <data name="RemoteDesktopDisconnectReason_SslErrDelegationPolicy" xml:space="preserve">
-    <value>Pplotika ne podpira prenosa poverilnic na ciljni strežnik.</value>
+    <value>Politika ne podpira prenosa poverilnic na ciljni strežnik.</value>
   </data>
   <data name="RemoteDesktopDisconnectReason_SslErrFreshCredRequiredByServer" xml:space="preserve">
     <value>Politika preverjanja pristnosti strežnika ne dovoljuje zahtev za povezavo z uporabo shranjenih poverilnic. Uporabnik mora vnesti nove poverilnice.</value>
@@ -2871,7 +2871,7 @@ $$hostname$$--&gt;Ime gostitelja</value>
     <value>Deljen nadzor za WPF in ... več </value>
   </data>
   <data name="Library_DnsClientNET_Description" xml:space="preserve">
-    <value>DnsClient.NET je preprosta, a zelo zmogljiva in visoko zmogljiva odprtokodna knjižnica za .NET Framework za iskanje DNS</value>
+    <value>DnsClient.NET je preprosta in visoko zmogljiva odprtokodna knjižnica za .NET Framework za iskanje DNS</value>
   </data>
   <data name="Library_Dragablz_Description" xml:space="preserve">
     <value>Nadzor zavihkov, ki jih je mogoče povleči in trgati, za WPF</value>
@@ -3135,7 +3135,7 @@ $$hostname$$--&gt;Ime gostitelja</value>
     <value>Sinhroniziraj samo delujoče primerke EC2 iz AWS</value>
   </data>
   <data name="AnAWSRegionNamedXDoesNotExist" xml:space="preserve">
-    <value>Ne obstaja oimenovana regija AWS {0}!</value>
+    <value>Ne obstaja poimenovana regija AWS {0}!</value>
   </data>
   <data name="AWSCLIv2IsInstalled" xml:space="preserve">
     <value>AWS CLI v2 je nameščen!</value>
