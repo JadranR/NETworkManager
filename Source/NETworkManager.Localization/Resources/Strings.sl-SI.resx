@@ -3126,7 +3126,7 @@ $$hostname$$--&gt;Ime gostitelja</value>
     <value>Sinhroniziraj samo delujoče primerke EC2 iz AWS</value>
   </data>
   <data name="AnAWSRegionNamedXDoesNotExist" xml:space="preserve">
-    <value>Ne obstaja oimenovana regija AWS {0}!</value>
+    <value>Ne obstaja poimenovana regija AWS {0}!</value>
   </data>
   <data name="AWSCLIv2IsInstalled" xml:space="preserve">
     <value>AWS CLI v2 je nameščen!</value>
@@ -3135,10 +3135,10 @@ $$hostname$$--&gt;Ime gostitelja</value>
     <value>AWS CLI v2 ni nameščen!</value>
   </data>
   <data name="AWSSessionManagerPluginIsInstalled" xml:space="preserve">
-    <value>Vtičnik AWS Upravitelj sej je nameščen!</value>
+    <value>Vtičnik 'AWS Upravitelj sej' je nameščen!</value>
   </data>
   <data name="AWSSessionManagerPluginIsNotInstalled" xml:space="preserve">
-    <value>Vtičnik AWS Upravitelj sej ni nameščen!</value>
+    <value>Vtičnik 'AWS Upravitelj sej' ni nameščen!</value>
   </data>
   <data name="CheckForPreReleases" xml:space="preserve">
     <value>Preveri obstoj predizdaj</value>
@@ -3225,18 +3225,18 @@ V zgornjem desnem kotu kliknite na gumb za Pomoč/Dokumentacijo (levo od gumba z
     <value>Omrežje</value>
   </data>
   <data name="Proxy" xml:space="preserve">
-    <value>Proxy</value>
+    <value>Namestniški strežnik</value>
   </data>
   <data name="ResolveIPAddressForThisHost" xml:space="preserve">
-    <value>Resolve IP address for this host (IPv4 is preferred)</value>
+    <value>Razreši naslov IP za tega gostitelja (IPv4 je prednostni)</value>
   </data>
   <data name="NoValidPowerShellPath" xml:space="preserve">
-    <value>A valid path to PowerShell should end with "pwsh.exe" or "powershell.exe"!</value>
+    <value>Veljavna pot do lupine PowerShell se mora končati z 'pwsh.exe' ali 'powershell.exe'!</value>
   </data>
   <data name="NoValidPuTTYPath" xml:space="preserve">
-    <value>A valid path to PuTTY should end with "PuTTY.exe"!</value>
+    <value>Veljavna pot do PuTTY se mora končati z 'PuTTY.exe'!</value>
   </data>
   <data name="NoValidTigerVNCPath" xml:space="preserve">
-    <value>A valid path to TigerVNC should end with "vncviewer-*.exe" or "vncviewer64-*.exe"!</value>
+    <value>Veljavna pot do TigerVNC se mora končati z 'vncviewer-*.exe' ali 'vncviewer64-*.exe'!</value>
   </data>
 </root>
