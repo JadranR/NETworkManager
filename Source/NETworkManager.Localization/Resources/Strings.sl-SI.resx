@@ -3192,123 +3192,123 @@ V zgornjem desnem kotu kliknite na gumb za Pomoč/Dokumentacijo (levo od gumba z
     <value>Veljavna pot do TigerVNC se mora končati z "vncviewer-*.exe" ali "vncviewer64-*.exe"!</value>
   </data>
   <data name="ApplicationName_SNTPLookup" xml:space="preserve">
-    <value>SNTP Lookup</value>
+    <value>Iskanje SNTP</value>
   </data>
   <data name="Library_nulastudioNetBeauty_Description" xml:space="preserve">
-    <value>Move a .NET Framework/.NET Core app runtime components and dependencies into a sub-directory and make it beauty.</value>
+    <value>Premakni sestavime in odvisnosti izvajalnega okolja aplikacije .NET Framework/.NET Core v podmapo in jih polepšaj</value>
   </data>
   <data name="AddATabToPerformASNTPLookup" xml:space="preserve">
-    <value>Add a tab to perform a SNTP lookup...</value>
+    <value>Dodaj zavihek za iskanje SNTP...</value>
   </data>
   <data name="SNTPServers" xml:space="preserve">
-    <value>SNTP server(s)</value>
+    <value>Strežniki SNTP</value>
   </data>
   <data name="HelpMessage_CustomPublicIPv6AddressAPI" xml:space="preserve">
-    <value>URL to a web service that can be reached via http or https and returns an IPv6 address like "xxxx:xx:xxx::xx" as response.</value>
+    <value>URL do spletne storitve, ki je dosegljiva prek http ali https in kot odgovor vrne naslov IPv6, kot je "xxxx:xx:xxx::xx".</value>
   </data>
   <data name="IPEndPoint" xml:space="preserve">
-    <value>IP endpoint</value>
+    <value>Končna točka IP</value>
   </data>
   <data name="LocalEndTime" xml:space="preserve">
-    <value>Local end time</value>
+    <value>Lokalni končni čas</value>
   </data>
   <data name="LocalStartTime" xml:space="preserve">
-    <value>Local start time</value>
+    <value>Lokalni začetni čas</value>
   </data>
   <data name="NetworkTime" xml:space="preserve">
-    <value>Network time</value>
+    <value>Omrežni čas</value>
   </data>
   <data name="Offset" xml:space="preserve">
-    <value>Offset</value>
+    <value>Odmik</value>
   </data>
   <data name="RoundTripDelay" xml:space="preserve">
-    <value>Round trip delay</value>
+    <value>Povratna zamuda</value>
   </data>
   <data name="Server" xml:space="preserve">
-    <value>Server</value>
+    <value>Stržnik</value>
   </data>
   <data name="SNTPLookup" xml:space="preserve">
-    <value>SNTP Lookup</value>
+    <value>Iskanje SNTP</value>
   </data>
   <data name="AddSNTPServer" xml:space="preserve">
-    <value>Add SNTP server</value>
+    <value>Dodaj strežnik SNTP</value>
   </data>
   <data name="DeleteSNTPServer" xml:space="preserve">
-    <value>Delete SNTP server</value>
+    <value>Izbriši strežnik SNTP</value>
   </data>
   <data name="DeleteSNTPServerMessage" xml:space="preserve">
-    <value>The selected SNTP server will be deleted permanently.</value>
+    <value>Izbrani strežnik SNTP bo trajno izbrisan.</value>
   </data>
   <data name="EditSNTPServer" xml:space="preserve">
-    <value>Edit SNTP server</value>
+    <value>Uredi strežnik SNTP</value>
   </data>
   <data name="SNTPServerWithThisNameAlreadyExists" xml:space="preserve">
-    <value>An SNTP server with this name already exists!</value>
+    <value>Strežnik SNTP s tem imenom že obstaja!</value>
   </data>
   <data name="EnterValidHostnameOrIPAddress" xml:space="preserve">
-    <value>Enter a valid hostname (like "server-01" or "example.com") or a valid IP address (like 192.168.178.1)!</value>
+    <value>Vnesite veljavno ime gostitelja (na primer "server-01" ali "primer.com") ali veljaven naslov IP (na primer 192.168.178.1)!</value>
   </data>
   <data name="Servers" xml:space="preserve">
-    <value>Server(s)</value>
+    <value>Strežniki</value>
   </data>
   <data name="EnterMasterPasswordToUnlockProfile" xml:space="preserve">
-    <value>Enter master password to unlock the profile file:</value>
+    <value>Vnesite glavno geslo za odklepanje datoteke profila:</value>
   </data>
   <data name="UnlockProfileFile" xml:space="preserve">
-    <value>Unlock profile file</value>
+    <value>Odkleni datoteko profila</value>
   </data>
   <data name="PortState_TimedOut" xml:space="preserve">
-    <value>Timed out</value>
+    <value>Časovna omejitev je potekla</value>
   </data>
   <data name="Hostkey" xml:space="preserve">
-    <value>Hostkey</value>
+    <value>Gostiteljski ključ</value>
   </data>
   <data name="SettingsAreResetAndApplicationWillBeRestartedMessage" xml:space="preserve">
-    <value>The settings will be reset and the application will be restarted afterwards!</value>
+    <value>Nastavitve bodo ponastavljene in aplikacija se bo nato znova zagnala!</value>
   </data>
   <data name="SettingsHaveBeenReset" xml:space="preserve">
     <value>Nastavitve so ponastavljene!</value>
   </data>
   <data name="PingStatus" xml:space="preserve">
-    <value>Ping status</value>
+    <value>Stanje PING</value>
   </data>
   <data name="ThreadPoolAdditionalMinThreads" xml:space="preserve">
-    <value>ThreadPool additional min. threads</value>
+    <value>Dodatne najmanj. niti ThreadPool</value>
   </data>
   <data name="HelpMessage_ThreadPoolAdditionalMinThreads" xml:space="preserve">
-    <value>This setting specifies the minimum number of threads that will be created from the application's ThreadPool on demand. This can improve the performance for example of the IP scanner or port scanner.
+    <value>Ta nastavitev določa najmanjše število niti, ki bodo na zahtevo ustvarjene iz ThreadPoola aplikacije. To lahko izboljša delovanje na primer skenerja IP ali skenerja vrat.
 	
-The value is added to the default min. threads (number of CPU threads). The value 0 leaves the default settings. If the value is higher than the default max. threads of the ThreadPool, this value is used.
+Vrednost se doda privzeti najm. niti (število niti CPE). Vrednost 0 pusti privzete nastavitve. Če je vrednost višja od privzete najv. niti ThreadPool, se uporabi ta vrednost.
 
-If the value is too high, performance problems may occur.
+Če je vrednost previsoka, lahko pride do težav z delovanjem.
 
-Changes to this value will take effect after the application is restarted. Whether the value was set successfully can be seen in the log file under %LocalAppData%\NETworkManager\NETworkManager.log</value>
+Spremembe te vrednosti bodo začele veljati po ponovnem zagonu aplikacije. Ali je bila vrednost uspešno nastavljena, lahko vidite v dnevniški datoteki pod %LocalAppData%\NETworkManager\NETworkManager.log</value>
   </data>
   <data name="MaxThreadsOnlyGoToSettingsGeneralGeneral" xml:space="preserve">
-    <value>These settings only change the maximum number of concurrently executed threads per host/port scan. Go to Settings &gt; General &gt; General to adjust the (min) threads of the application.</value>
+    <value>Te nastavitve spremenijo samo največje število sočasno izvedenih niti na skeniranje gostitelja/vrat. Pojdite v Nastavitve &gt; Splošno &gt; Splošno za prilagoditev (najm.) niti aplikacije.</value>
   </data>
   <data name="PortStatus" xml:space="preserve">
-    <value>Port status</value>
+    <value>Stanje vrat</value>
   </data>
   <data name="PingDetails" xml:space="preserve">
-    <value>Ping details</value>
+    <value>Podrobnosti Pinga</value>
   </data>
   <data name="NoOpenPortsFound" xml:space="preserve">
-    <value>No open ports found!</value>
+    <value>Ni odprtih vrat!</value>
   </data>
   <data name="PortScanIsDisabled" xml:space="preserve">
-    <value>Port scan is disabled!</value>
+    <value>Pregled vrat je onemogočen!</value>
   </data>
   <data name="ScanPorts" xml:space="preserve">
-    <value>Scan ports</value>
+    <value>Preglej vrata</value>
   </data>
   <data name="CouldNotFindApplicationXXXMessage" xml:space="preserve">
-    <value>Could not find the application "{0}". Maybe the application was hidden in the settings?</value>
+    <value>Ni bilo mogoče najti aplikacije "{0}". Morda je bila aplikacija skrita v nastavitvah?</value>
   </data>
   <data name="StatusWindow" xml:space="preserve">
-    <value>Status window</value>
+    <value>Statusno okno</value>
   </data>
   <data name="ShowAddressBar" xml:space="preserve">
-    <value>Show address bar</value>
+    <value>Prikaži naslovno vrstico</value>
   </data>
 </root>
