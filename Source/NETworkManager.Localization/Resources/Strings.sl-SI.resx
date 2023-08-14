@@ -322,7 +322,7 @@
     <value>Ponastavi</value>
   </data>
   <data name="ResolvePTR" xml:space="preserve">
-    <value>Reši PTR</value>
+    <value>Razreši PTR</value>
   </data>
   <data name="Resources" xml:space="preserve">
     <value>Viri</value>
@@ -1183,7 +1183,7 @@ Ustvarite enega...</value>
     <value>Uporabi pripono DNS po meri</value>
   </data>
   <data name="UseResolverCache" xml:space="preserve">
-    <value>Uporabi predpomnilnik razreševalnika</value>
+    <value>Uporabi predpomnilnik razreševalca/value>
   </data>
   <data name="UserInterfaceLocked" xml:space="preserve">
     <value>Uporabniški vmesnik je zaklenjen!</value>
@@ -3607,7 +3607,7 @@ V zgornjem desnem kotu kliknite na gumb za Pomoč/Dokumentacijo (levo od gumba z
     <value>API Geolokacija IP - Hitro, natančno, zanesljivo</value>
   </data>
   <data name="CheckDNSResolver" xml:space="preserve">
-    <value>Preveri razreševalnik DNS</value>
+    <value>Preveri razreševalca DNS</value>
   </data>
   <data name="CheckIPGeolocation" xml:space="preserve">
     <value>Preveri geolokacijo IP</value>
@@ -3622,7 +3622,7 @@ V zgornjem desnem kotu kliknite na gumb za Pomoč/Dokumentacijo (levo od gumba z
     <value>Za zagotavljanje dodatnih funkcij se uporabljajo storitve tretjih oseb, ki jih ne upravljam jaz. Spodaj jih lahko prekličete. V nobenem trenutku se mi ne prenesejo nobeni podatki.</value>
   </data>
   <data name="CheckingDNSResolverDots" xml:space="preserve">
-    <value>Preverjanje razreševalnika DNS...</value>
+    <value>Preverjanje razreševalca DNS...</value>
   </data>
   <data name="CheckingIPGeolocationDots" xml:space="preserve">
     <value>Preverjanje geolokacije IP</value>
